@@ -8,4 +8,10 @@ c=5
 
 
 print "Hvor mye er a+b+c ?"
-print (a+b+c)
+print "1+3+5 = ", (a+b+c)
+
+print "Hvor mye er a*b*c ?"
+print "1*3*5 = ", (a*b*c)
+
+print "Hvor mye er a-b-c ?"
+print "1-3-5 = ", (a-b-c)
